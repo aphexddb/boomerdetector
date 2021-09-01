@@ -1,0 +1,20 @@
+{
+  "name": "boomerdetector",
+  "version": "1.0.0",
+  "description": "Detect if you have encountered text authored by a Boomer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aphexddb/boomerdetector.git"
+  },
+  "author": "Gardiner Allen (aphexddb@gmail.com)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/aphexddb/boomerdetector/issues"
+  },
+  "homepage": "https://github.com/aphexddb/boomerdetector#readme",
+  "private": true
+}
